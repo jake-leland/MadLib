@@ -1,7 +1,7 @@
 MadLib
 ======
 
-Play Mad Libs with a computer.
+Play Mad Libs with a computer!
 
 The only thing that this program requires is a mad lib to read in.
 This document must be in a particular format:
